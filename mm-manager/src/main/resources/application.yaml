@@ -1,0 +1,4 @@
+server:
+  port: 8964
+  socket:
+    msg-path-prefix: msg
