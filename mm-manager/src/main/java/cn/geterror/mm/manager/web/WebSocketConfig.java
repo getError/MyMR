@@ -1,4 +1,4 @@
-package cn.geterror.mm.net.web.socket;
+package cn.geterror.mm.manager.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
